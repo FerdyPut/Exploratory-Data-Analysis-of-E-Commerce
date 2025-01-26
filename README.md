@@ -15,6 +15,13 @@ Carrying out **Exploratory Data Analysis (EDA)** on e-commerce datasets aims to 
 
    
 # Business Understanding
+E-commerce companies want to increase sales, understand customer behavior, and optimize business strategies. By analyzing transaction data, companies can discover patterns, trends and factors that influence business performance.
 
-
+Goals:
+1. Understand customer purchasing patterns.
+2. Identify the best-selling products or categories.
+3. Find sales trends based on time.
+4. Carry out customer segmentation to find out who the most loyal customers are.
+5. Detect potential problems, such as inactive customers or underselling products.
+   
 # Follow More
