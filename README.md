@@ -1,5 +1,5 @@
 # Exploratory Data Analysis of E-Commerce
-Carrying out **Exploratory Data Analysis (EDA)** on e-commerce datasets aims to understand patterns, relationships between variables, and identify potential business insights. The following are EDA steps that can be carried out on e-commerce datasets, including analysis and visualization.
+Carrying out **Exploratory Data Analysis (EDA)** on e-commerce datasets aims to understand patterns, relationships between variables, and identify potential business insights. The following are EDA steps that can be carried out on e-commerce datasets, including analysis and visualization. Besides that, we can take insight or some offers for company of the results.
 
 # Data Understanding
 **The data understanding from the e-commerce dataset is:**
@@ -23,5 +23,16 @@ Goals:
 3. Find sales trends based on time.
 4. Carry out customer segmentation to find out who the most loyal customers are.
 5. Detect potential problems, such as inactive customers or underselling products.
-   
+
+### What can we analysis at the e-commerce dataset?
+1. What products are purchased most often?
+2. Are there differences in purchasing behavior based on region (country)?
+3. Who are the customers who shop frequently (loyal customers)?
+4. Which products contribute the most revenue?
+5. Which countries are the biggest markets, and what are their shopping patterns?
+6. etc.
+
+                                             THANK YOU
+
 # Follow More
+My Linkedln: https://www.linkedin.com/in/ferdypput/
